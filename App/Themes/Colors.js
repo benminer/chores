@@ -21,7 +21,20 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
-  text: '#E0D7E5'
+  text: '#E0D7E5',
+
+  // Chores Colors
+  orange: 'rgba(249, 156, 133, 90)',
+  green: 'rgba(118, 212, 169, 90)',
+  darkBlue: 'rgba(72, 156, 229, 100)',
+  lightBlue: 'rgba(51, 190, 224, 100)',
+  faintBlue: 'rgba(73, 154, 229, 100)',
+  tabBarWhite: '#FBFDFF',
+  inactiveGray: '#888686',
+  darkGray: 'rgba(87, 86, 86, 70)',
+  lightGray: 'rgba(121, 130, 135, 90)',
+  arrowGreen: '#76D4A9',
+  oldRed: '#EC4B27'
 }
 
 export default colors
