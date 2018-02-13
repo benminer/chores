@@ -16,7 +16,7 @@
 ## :arrow_forward: How to Run App
 
 1. cd to the repo
-2. Run Build for either OS
+2. Run Build iOS (haven't optimized for Android yet)
   * for iOS
     * run `react-native run-ios`
 
