@@ -10,7 +10,7 @@
 
 **Step 2:** cd to the cloned repo:
 
-**Step 3:** Install the Application with `npm i`
+**Step 3:** Install dependencies with `npm i`
 
 
 ## :arrow_forward: How to Run App
